@@ -4,17 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exercice_1
+namespace Exercice_1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bonjour toi!");
+            Console.WriteLine("bonjour ,");
+            Console.WriteLine("Entrez votre nom:");
             string Name= Console.ReadLine();
-            Console.WriteLine("bonjour "+Name+".");
+            Console.WriteLine("bonjour "+Name+" .");
 
-            Console.ReadLine();
+            
         }
     }
 }

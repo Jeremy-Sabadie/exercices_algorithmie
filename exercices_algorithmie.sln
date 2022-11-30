@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_2", "exercice_2\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_3", "Exercice_3\Exercice_3.csproj", "{9D385DE6-E40F-4029-9564-61456420B667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4", "Exercice_4\Exercice_4.csproj", "{30784207-C66D-457F-B8B2-A37515BA0F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationExercice", "PermutationExercice\PermutationExercice.csproj", "{71E3A544-1279-4533-B24A-74BCBC14B64C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{9D385DE6-E40F-4029-9564-61456420B667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D385DE6-E40F-4029-9564-61456420B667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D385DE6-E40F-4029-9564-61456420B667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30784207-C66D-457F-B8B2-A37515BA0F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30784207-C66D-457F-B8B2-A37515BA0F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30784207-C66D-457F-B8B2-A37515BA0F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30784207-C66D-457F-B8B2-A37515BA0F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E3A544-1279-4533-B24A-74BCBC14B64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E3A544-1279-4533-B24A-74BCBC14B64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E3A544-1279-4533-B24A-74BCBC14B64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E3A544-1279-4533-B24A-74BCBC14B64C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

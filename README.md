@@ -1,1 +1,1 @@
-# exercices_algorithmie effectués lors de la périonde "passerelle de la formation **formation CDA à 2isa.**
+# exercices_algorithmie effectués au début de la période "passerelle" de la formation **formation CDA à 2isa.**

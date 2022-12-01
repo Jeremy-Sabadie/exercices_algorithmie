@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4", "Exercice_4\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationExercice", "PermutationExercice\PermutationExercice.csproj", "{71E3A544-1279-4533-B24A-74BCBC14B64C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pair_xercice", "pair_xercice\pair_xercice.csproj", "{573DDC04-9E2E-42A8-B274-D278A928365B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signe_d'un_nombre", "Signe_d'un_nombre\Signe_d'un_nombre.csproj", "{98518281-F315-49B1-B9AE-D0C7A9B267FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{71E3A544-1279-4533-B24A-74BCBC14B64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E3A544-1279-4533-B24A-74BCBC14B64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71E3A544-1279-4533-B24A-74BCBC14B64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573DDC04-9E2E-42A8-B274-D278A928365B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573DDC04-9E2E-42A8-B274-D278A928365B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573DDC04-9E2E-42A8-B274-D278A928365B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573DDC04-9E2E-42A8-B274-D278A928365B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98518281-F315-49B1-B9AE-D0C7A9B267FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98518281-F315-49B1-B9AE-D0C7A9B267FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98518281-F315-49B1-B9AE-D0C7A9B267FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98518281-F315-49B1-B9AE-D0C7A9B267FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

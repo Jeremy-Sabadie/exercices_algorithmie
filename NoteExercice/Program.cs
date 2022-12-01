@@ -21,7 +21,7 @@ namespace NoteExercice
             {
                 Console.WriteLine("Ratrapage");//On affiche ratrapage.
             }
-            else if (NoteConvert < 8)//On vérifie une l'autre possibilité où elle serait inférieure à huit.
+            else //On vérifie une l'autre possibilité où elle serait inférieure à huit.
             {
                 Console.WriteLine("Echec");//Dans ce cas on affiche Echec.
             }

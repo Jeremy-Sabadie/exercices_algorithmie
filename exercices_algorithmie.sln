@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05PermutationExercice", "Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06pair_xercice", "pair_xercice\06pair_xercice.csproj", "{573DDC04-9E2E-42A8-B274-D278A928365B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08Signe_d'un_nombre", "Signe_d'un_nombre\08Signe_d'un_nombre.csproj", "{98518281-F315-49B1-B9AE-D0C7A9B267FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010Signe_d'un_nombre", "Signe_d'un_nombre\010Signe_d'un_nombre.csproj", "{98518281-F315-49B1-B9AE-D0C7A9B267FF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09NoteExercice", "NoteExercice\09NoteExercice.csproj", "{BF7BFEC3-C474-4743-A79E-7AADD490D010}"
 EndProject

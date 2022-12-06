@@ -18,7 +18,7 @@ namespace FacturesPhotocopies
             const double SecondPrice = 0.8;//Un second prix est stocké pour les vingt copies suivantes. 
             double Facture = (NbCopy - 10) *
                 SecondPrice + (10 * FirstPrice);
-            Console.WriteLine("le montant de la facture est de : " +);
+            //Console.WriteLine("le montant de la facture est de : " +);
 
         }
     }

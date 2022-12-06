@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.catégorie", "12.catégo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.impôt_zorglub", "13.impôt_zorglub\13.impôt_zorglub.csproj", "{12F571C9-EE45-4CB3-AC64-56EEA992DAE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.2_facture_photocopies", "14.2_facture_photocopies\14.2_facture_photocopies.csproj", "{B1F2AA60-271F-4ED5-A1E8-572BCA277F68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{12F571C9-EE45-4CB3-AC64-56EEA992DAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F571C9-EE45-4CB3-AC64-56EEA992DAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F571C9-EE45-4CB3-AC64-56EEA992DAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F2AA60-271F-4ED5-A1E8-572BCA277F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F2AA60-271F-4ED5-A1E8-572BCA277F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F2AA60-271F-4ED5-A1E8-572BCA277F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F2AA60-271F-4ED5-A1E8-572BCA277F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

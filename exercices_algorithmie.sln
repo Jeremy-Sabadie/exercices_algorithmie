@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_1", "exercice_1\Exercice_1.csproj", "{3348FACB-ED13-47F6-9A2A-4934BE0774B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.hello World", "exercice_1\1.hello World.csproj", "{3348FACB-ED13-47F6-9A2A-4934BE0774B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_2", "exercice_2\Exercice_2.csproj", "{DB36A3DE-239E-43E0-AA98-FAD173D4BD39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.cube d'un nombre", "exercice_2\2.cube d'un nombre.csproj", "{DB36A3DE-239E-43E0-AA98-FAD173D4BD39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_3", "Exercice_3\Exercice_3.csproj", "{9D385DE6-E40F-4029-9564-61456420B667}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.périmètre d'un cercle", "Exercice_3\3.périmètre d'un cercle.csproj", "{9D385DE6-E40F-4029-9564-61456420B667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice_4", "Exercice_4\Exercice_4.csproj", "{30784207-C66D-457F-B8B2-A37515BA0F10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. comprendre l'affectation", "Exercice_4\4. comprendre l'affectation.csproj", "{30784207-C66D-457F-B8B2-A37515BA0F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05PermutationExercice", "PermutationExercice\05PermutationExercice.csproj", "{71E3A544-1279-4533-B24A-74BCBC14B64C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Permutation", "PermutationExercice\5Permutation.csproj", "{71E3A544-1279-4533-B24A-74BCBC14B64C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06pair_xercice", "pair_xercice\06pair_xercice.csproj", "{573DDC04-9E2E-42A8-B274-D278A928365B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010Signe_d'un_nombre", "Signe_d'un_nombre\010Signe_d'un_nombre.csproj", "{98518281-F315-49B1-B9AE-D0C7A9B267FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.Signe_d'un_nombre", "Signe_d'un_nombre\8.Signe_d'un_nombre.csproj", "{98518281-F315-49B1-B9AE-D0C7A9B267FF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09NoteExercice", "NoteExercice\09NoteExercice.csproj", "{BF7BFEC3-C474-4743-A79E-7AADD490D010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07MaximumExercice", "MaximumExercice\07MaximumExercice.csproj", "{7BF7071D-CD35-4835-84BB-226E1E737057}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Maximum", "MaximumExercice\7.Maximum.csproj", "{7BF7071D-CD35-4835-84BB-226E1E737057}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014FacturesPhotocopies", "FacturesPhotocopies\014FacturesPhotocopies.csproj", "{A726DA01-BF34-4C8F-A9D4-52668EF37FC3}"
 EndProject

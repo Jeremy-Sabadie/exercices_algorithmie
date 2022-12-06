@@ -17,16 +17,13 @@ namespace _10_signe_dun_produit
 
             if ((Nb1 > 0 && Nb2 > 0)|| (Nb1 < 0 & Nb2 < 0))//Si (Nb1supérieur à zéro et Nb1 supérieur à zéro et Nb2 supérieur à zéro) ou (Nb1 inférieur à zéro et Nb2 inférieur à zéro)
             {
-                Console.WriteLine("le produit des deux nombre est positive.");//On indique que la somme des deux variable est positive.
+                Console.WriteLine("le produit des deux nombre est positif.");//On indique que la somme des deux variable est positive.
             
             }
-
-            
-                
-            
             else//sinon s i la con dition n'est pas remplie.
             {
-                Console.WriteLine("le produit des deux nombre est négative.");//On indique que la somme des deux variable est négative.
+                Console.WriteLine("le produit des deux nombre est négatif.");//On indique que la somme des deux variable est négative.
+                Console.WriteLine($"{Nb1} x{ Nb2}");//autre façon de cocaténer.
             }
             Console.ReadLine();
             

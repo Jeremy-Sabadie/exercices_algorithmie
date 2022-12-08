@@ -29,9 +29,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Reponse", "11.Reponse\11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.catégorie", "12.catégorie\12.catégorie.csproj", "{10A006C0-92A0-4B77-920D-9FCE932F0D2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.impôt_zorglub", "13.impôt_zorglub\13.impôt_zorglub.csproj", "{12F571C9-EE45-4CB3-AC64-56EEA992DAE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.impôt_zorglub", "13.impôt_zorglub\13.impôt_zorglub.csproj", "{12F571C9-EE45-4CB3-AC64-56EEA992DAE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.2_facture_photocopies", "14.2_facture_photocopies\14.2_facture_photocopies.csproj", "{B1F2AA60-271F-4ED5-A1E8-572BCA277F68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_facture_photocopies", "14_facture_photocopies\14_facture_photocopies.csproj", "{B1F2AA60-271F-4ED5-A1E8-572BCA277F68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

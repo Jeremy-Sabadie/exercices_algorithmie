@@ -1,4 +1,5 @@
-﻿
+﻿Console.OutputEncoding = System.Text.Encoding.UTF8;// Cette ligne permet de pouvoir afficher les symboles tel que le symbole euro.
+
 Console.Write("Indiquez le nombre de photocopies: ");
 int NbCopies = int.Parse(Console.ReadLine());//Le nombre de copies demandé est récupéré dans une variable de type int.
 const float TenFirstPrice = 0.10f;//Le prix des dix premières copies est défini dans une constante type float. 
@@ -17,9 +18,14 @@ else if (NbCopies >= 20 && NbCopies <= 30)//Si le nombre de copies est compris e
 else if (NbCopies >= 30)//Si le nombre de copies est supérieur ou égal à 30(10 premières+les 20 suivantes.
 {
     NbCopies = NbCopies - 30;
-    Facture = (NbCopies * 0.08f) + (10 * TenFirstPrice) + (20 * NextCopiesPrice);
-
+    Facture = (NbCopies * 0.08f) + (10 * TenFirstPrice) + (20 * NextCopiesPrice);//Le prix des copies à partir de la 31ème + le prix des 10 premières + le prix de celles après les 10 premières et avant la 31ème.
 }
+else if (NbCopies>10&& NbCopies < 20)//Si le nombre de copies est supérieur à 10 et inférieur à20.
+{
+    NbCopies = NbCopies - 10;//Ici on calcule le nombre de copies après les 10 premières.
+    Facture = (10 * TenFirstPrice) + (NbCopies * NextCopiesPrice);//Le prix des 10 premières copies +le pri des suivantes jusqu'a la 20ème.
+}
+
 
 Console.WriteLine("le montant de la facture s'élève à: " + Facture + " $ .");//On inscrit en console le montant de la facture.
 Console.ReadLine();

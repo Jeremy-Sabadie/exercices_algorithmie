@@ -11,7 +11,7 @@ if (NbCopies <= 10)//Si  le nombre de copies est supérieur ou égal à dix.
 }
 else if (NbCopies >= 20 && NbCopies <= 30)//Si le nombre de copies est compris entre 20 et 30.
 {
-    NbCopies = NbCopies - 10;
+    NbCopies = NbCopies - 10;//Calcul du nombre de copies apès les 10 premières.
     Facture = (NbCopies * NextCopiesPrice) + (10 * TenFirstPrice);
 
 }

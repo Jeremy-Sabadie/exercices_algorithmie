@@ -35,7 +35,7 @@ if (CompagnieFidelity >= 5)
 //On va maintenant regarder la valeur de compteur et afficher le résultat corespondant à l'aide d'une switch case.
 switch (Point)
 {
-    case 0://Si le nombre de points dans le compteur
+    case 0://Si le nombre de points est ég
         Console.WriteLine("tarif vert");
         break;
     case 1:

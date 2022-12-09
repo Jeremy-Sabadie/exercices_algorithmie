@@ -1,7 +1,9 @@
 ﻿
 int Sum = 0;
+
 int n = 5;
 int It = 1;
+
 
 while (It <= n)
 {

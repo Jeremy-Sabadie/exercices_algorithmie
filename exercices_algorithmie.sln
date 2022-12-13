@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.Somme_des_entiers_pairs"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Table de multiplication", "18.Table de multiplication\18.Table de multiplication.csproj", "{BCDA29FD-0FDB-405C-BF0F-1CC89D2E9FB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Saisie_numero_de_mois", "20.Saisie_numero_de_mois\20.Saisie_numero_de_mois.csproj", "{F2D2A600-2DE7-4C0B-9D40-3EAEC6EDD92A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{BCDA29FD-0FDB-405C-BF0F-1CC89D2E9FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCDA29FD-0FDB-405C-BF0F-1CC89D2E9FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCDA29FD-0FDB-405C-BF0F-1CC89D2E9FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D2A600-2DE7-4C0B-9D40-3EAEC6EDD92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D2A600-2DE7-4C0B-9D40-3EAEC6EDD92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D2A600-2DE7-4C0B-9D40-3EAEC6EDD92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D2A600-2DE7-4C0B-9D40-3EAEC6EDD92A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

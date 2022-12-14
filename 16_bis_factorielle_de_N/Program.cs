@@ -1,4 +1,7 @@
-﻿//Factorielle de N:
+﻿
+
+
+//Factorielle de N noté n!:
 int n = 5;
 int It = 1;
 int Fact = 1;

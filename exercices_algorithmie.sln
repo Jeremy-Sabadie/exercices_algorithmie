@@ -61,7 +61,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_Plus_ou_moins", "23_Plus
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24 Rendu_de_monnaie", "24 Rendu_de_monnaie\24 Rendu_de_monnaie.csproj", "{0B09903F-4FA8-46EB-B3B8-22638A32C9BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableaux.1", "Tableaux.1\Tableaux.1.csproj", "{2629CF4D-62AD-487F-A86A-D0FF51EF14EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tableaux.1", "Tableaux.1\Tableaux.1.csproj", "{2629CF4D-62AD-487F-A86A-D0FF51EF14EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perso_Tableau", "Perso_Tableau\Perso_Tableau.csproj", "{FFFEF327-D639-468C-94A2-F4EC1EBA3D91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{2629CF4D-62AD-487F-A86A-D0FF51EF14EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2629CF4D-62AD-487F-A86A-D0FF51EF14EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2629CF4D-62AD-487F-A86A-D0FF51EF14EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFEF327-D639-468C-94A2-F4EC1EBA3D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFEF327-D639-468C-94A2-F4EC1EBA3D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFEF327-D639-468C-94A2-F4EC1EBA3D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFEF327-D639-468C-94A2-F4EC1EBA3D91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

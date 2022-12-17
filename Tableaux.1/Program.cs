@@ -2,7 +2,7 @@
 
 const int NB_NOTES = 5;
 int infMoyenne = 0;
-int SupMoyenne=0
+int SupMoyenne = 0;
 //Un tableau pour ranger les 5 notes (réel)
 float[] notes = new float[NB_NOTES];
 

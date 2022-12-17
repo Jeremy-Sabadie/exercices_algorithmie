@@ -9,5 +9,5 @@ for (int It = 1; It <= N; It++)
 
 
 
-Console.WriteLine($"la factorielle de :{N} notée n!= est égale à: {Fact}");
+Console.WriteLine($"la factorielle de :{N} notée {N}!= est égale à: {Fact}");
 

@@ -6,7 +6,7 @@ int PositiveCount = 0;
 int NegativeCount = 0;
 for (int i = 0; i < NbValeur; i++)
 {
-    Console.Write("Donnez une valeur à ranger dans le tableau:");
+    Console.Write($"Donnez la valeur n°: {i+1} à ranger dans le tableau.");
     Array[i] = int.Parse(Console.ReadLine());
     if (Array[i] < 0)
     {

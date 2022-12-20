@@ -15,7 +15,7 @@ for (int j = 0; j < Tableau.Length-1; j++)//Boucle for qui englobe la deuxième 
             Tmp = Tableau[i + 1];//On sauvegarde la valeur de l'item parcourru dans la variable temporaire.
             Tableau[i + 1] = Tableau[i];//La valeur de l'tem suivant(plus grande  est remplacé par la valeur de l'item parcouru(plus petit).
             Tableau[i] = Tmp;//La valeur de l'item parcourru est remplacé par la variable temporaire(donc la valeur plus grande).Fin de la permutation des deux variables.
-        }//Fin de la boucle for englobante.
+        }//Fin de la boucle for englobante. 
 
     } 
 }

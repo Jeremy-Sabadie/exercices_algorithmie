@@ -5,15 +5,15 @@ Random random = new Random();
 int Nb = 7;
 int[] Tableau = new int[Nb];//Déclaration du tableau pouvant contenir jusqu'à 7 items.
 
-for (int i = 0; i < Nb; i++)
+for (int i = 0; i < Nb; i++)//Boucle pour parcourir le tableau et y ranger la valeur générée.
 {
     int NewValue = random.Next(100);//Un nombre entr 0 et 99 est généré et stocké dans la variable "NewValue".
-    Tableau[i] = NewValue;
+    Tableau[i] = NewValue;//On range la valeur dans le tableau en l'affectant à lindex actuellement parcouru.
 }//On affiche en console l'état du tableau rempli avant de faire le tri.
 Console.WriteLine("Tableau avant le tri : ");
 for (int i = 0; i < Tableau.Length; i++)
 {
-    Console.Write(Tableau[i] + "|");
+    Console.Write(Tableau[i] + "|");//Les index sont séparés par | lors de l'affichage.
 }
 
 

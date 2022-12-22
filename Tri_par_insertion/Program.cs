@@ -17,10 +17,10 @@ for (int i = 0; i < Tableau.Length; i++)
 }
 
 
-//boucle de i égal à 1 jusqu'à taille(Tableau) -1
+//boucle du deuxième item(on démare au deuxième item pour pouvoir le comparer au premier) on boucle jusqu'au dernier item du tableau.
 for (int i = 1; i < Tableau.Length; i++)
 {
-    //On mémorise Tableau[i] dans x
+    //On mémorise la valeur de l'index parcouru dans x.
     int x = Tableau[i];
 
     // On fait une boucle qui décale les éléments  qui sont plus grands que x à partir de l'item actuellement comparé jusqu'au dernier item du tableau.

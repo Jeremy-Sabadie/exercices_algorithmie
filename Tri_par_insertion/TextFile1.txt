@@ -1,0 +1,12 @@
+﻿map du tri par insertion:
+1-On fait tourner une boucle dans laquelle a chaque tour de boucle:
+1.1- On génère un nombre random
+1.2- On range ce nombre généré dans l'index du tableau actuel.
+1.3-On stocke la valeur de l'index actuel dan une variable, x par exemple.
+2- On créer une variable j par exemple dans laquelle on range la valeur i de lindex.
+3- On fait une boucle while dans laquelle:
+3.1-On donne comme condition tant que j est supérieur à 0et l'index précédent x(i)
+3.2 On décale l'index à l'index d'avant "j=j-1".
+3.3- La valeur de x est placé dans lespace laissé lors du décalage des items"Tableau[j]=x"
+4-On affiche le tableau trié en console à l'aide d'une boucle.
+

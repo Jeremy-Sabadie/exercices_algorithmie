@@ -83,9 +83,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tableau.9", "Tableau.9\Tabl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tri_par_insertion", "Tri_par_insertion\Tri_par_insertion.csproj", "{8F2A3768-6DB1-4561-B225-BCF4EFFE06E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableau_10.Random_name", "Tableau_10.Random_name\Tableau_10.Random_name.csproj", "{250234AB-EC0D-40FF-B1DA-A6BD0607B7AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tableau_10.Random_name", "Tableau_10.Random_name\Tableau_10.Random_name.csproj", "{250234AB-EC0D-40FF-B1DA-A6BD0607B7AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tableau_11.Recherche_dichotomique", "Tableau_11.Recherche_dichotomique\Tableau_11.Recherche_dichotomique.csproj", "{75DF564A-AB67-4D63-9DD5-01B6D92B02A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tableau_11.Recherche_dichotomique", "Tableau_11.Recherche_dichotomique\Tableau_11.Recherche_dichotomique.csproj", "{75DF564A-AB67-4D63-9DD5-01B6D92B02A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewSortByIsertion", "NewSortByIsertion\NewSortByIsertion.csproj", "{D798CB4A-AF47-4FF4-88F5-97F45A194CAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{75DF564A-AB67-4D63-9DD5-01B6D92B02A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75DF564A-AB67-4D63-9DD5-01B6D92B02A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75DF564A-AB67-4D63-9DD5-01B6D92B02A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D798CB4A-AF47-4FF4-88F5-97F45A194CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D798CB4A-AF47-4FF4-88F5-97F45A194CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D798CB4A-AF47-4FF4-88F5-97F45A194CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D798CB4A-AF47-4FF4-88F5-97F45A194CAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

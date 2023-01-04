@@ -1,5 +1,5 @@
-﻿//déclaration de la fonction.
-int IsPair(int Nb)
+﻿//déclaration de la fonction qui indique si le nombre est pair ou impair.Elle prend un entier en argument.
+int IsEven(int Nb)
 {
     bool Pair = false;
 //Analyse du nombre à l'aide du modulo.
@@ -12,7 +12,7 @@ int IsPair(int Nb)
 Console.Write("indiquez un nombre.");
 int Number= int.Parse(Console.ReadLine());
 //Apel de la fonction avec des nombres donnés.
-IsPair(43);
-IsPair(42);
-IsPair(Number);
+IsEven(Number);
+IsEven(43);
+IsEven(42);
 

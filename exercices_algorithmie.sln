@@ -97,6 +97,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func.3_EstPair", "func.3_Es
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tab_StroumfBis", "Tab_StroumfBis\Tab_StroumfBis.csproj", "{9F6B0D6D-89FA-469B-A42D-D6E194F0BC76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Recherche_dichotomique", "11_Recherche_dichotomique\11_Recherche_dichotomique.csproj", "{6F3586A0-CA66-48E4-A5C0-BAE65DAD4982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func.4_Mention", "func.4_Mention\func.4_Mention.csproj", "{75DD4A7B-C465-42C1-8C44-685D594FB28A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +295,14 @@ Global
 		{9F6B0D6D-89FA-469B-A42D-D6E194F0BC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6B0D6D-89FA-469B-A42D-D6E194F0BC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6B0D6D-89FA-469B-A42D-D6E194F0BC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3586A0-CA66-48E4-A5C0-BAE65DAD4982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3586A0-CA66-48E4-A5C0-BAE65DAD4982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3586A0-CA66-48E4-A5C0-BAE65DAD4982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3586A0-CA66-48E4-A5C0-BAE65DAD4982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75DD4A7B-C465-42C1-8C44-685D594FB28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DD4A7B-C465-42C1-8C44-685D594FB28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DD4A7B-C465-42C1-8C44-685D594FB28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DD4A7B-C465-42C1-8C44-685D594FB28A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

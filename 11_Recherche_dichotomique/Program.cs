@@ -1,37 +1,39 @@
-﻿
-
-//Pseudo code :
-
-//VARIABLE
-//Tab : tableau d'entiers trié
-using System.ComponentModel.DataAnnotations.Schema;
-
+﻿//Tableau d'entiers classé.
 int[] Tab = { 38, 45, 64, 75, 84, 87 };
-//End : nombre entier (dernier item du tableau.
-
-//deb : nombre entier
-
-//fonction MiddleArray pour trouver lemilieu d'un tableau :
-int MiddleArray( int debut, int fin){
-    
-    int Mid = (debut + fin) / 2;
-    return Mid ;
+//Variable contenant la valeur recherchée.
+int ValeurCherchee = 38;
+//Variable contenant la valeur du premier index du tableau.
+int Start = 0;
+//Variable contenant la valeur du derniernier index du tableau.
+int End = Tab.Length-1;
+//Variable correspondant à l'index au molieu du tableau récupérée grace à la fonction IddleArray.
+int middle = MiddleArray(Start, End);
+//Tant que La valeur de l'index du milieu du tableau est différente du nombre recherché:
+while (Tab[middle] != ValeurCherchee)
+{//Si la valeur de l'index du milieu du tableau estsupérieure à la valeur recherchée
+    if (ValeurCherchee > Tab[middle])
+    {//Le milieu du tableau devient son début pour exclure de a recherche la zone du tableau qui ne contient pas la valeur recherchée.
+        Start = middle;
+    }//Sinon le milieu du tableau devient sa fin pour exclure le début du tableau qui ne contient pas la valeur recherchée.
+    else
+    {
+        End = middle;
+    }
+    middle = MiddleArray(Start, End);
 }
-int[] Tab_1 = { 38, 45, 64, 75, 84, 87 };
-MiddleArray(0,Tab_1.Length-1);
+Console.WriteLine(middle);
 
 
-int x= int.Parse(Console.ReadLine());
-//tr ← FAUX
-bool Trouve = false;
-//tant que trouve == FAUX et que Start <= End :
-// middle = partie_à conserver((deb + fin) / 2)
-// si t[middle] == x :
-//  tr = vrai
-// sinon:
-//si x > t[middle] :
-//   Start ← middle + 1
-//  sinon:
-//End ← middle - 1
-//renvoyer la valeur de trouve
-//FIN
+
+
+
+
+
+
+
+//fonction MiddleArray pour trouver le milieu d'un tableau :
+int MiddleArray(int debut, int fin)
+{
+    int Mid = (debut + fin) / 2;
+    return Mid;
+}

@@ -1,8 +1,7 @@
-﻿using System.Globalization;
-using System.Security.Cryptography.X509Certificates;
+﻿
 
 Random random = new Random();
-
+int[] Tableau = { 33, 1, 15, 12, 33, 46, 50, 8, };
 int Tmp = 0;
 
 AfficherTableau(Tableau);

@@ -21,7 +21,7 @@ while (Tab[middle] != ValeurCherchee)
     }
     middle = MiddleArray(Start, End);
 }
-Console.WriteLine($"l'élément recherché se situ à l'index {middle}");
+Console.WriteLine($"l'élément recherché se situe à l'index {middle}");
 
 
 

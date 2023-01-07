@@ -14,6 +14,8 @@ int Ordo_A = 1;
 int Abs_A = 6;
 int Ordo_B = 4;
 int Abs_B = 3;
-//Appel de la fonction Dis avec Ordo_A, Abs_A, Ordo_B, Abs_B comme arguments:
-Dist(Abs_A, Ordo_A, Abs_B, Ordo_B);
+//Appel de la fonction Dis avec Ordo_A, Abs_A, Ordo_B, Abs_B comme arguments et récupération du résultat dan Result pour pour l'affichage ultérieur :
+double Result=Dist(Abs_A, Ordo_A, Abs_B, Ordo_B);
+//Affichage:
+Console.WriteLine($"la distance entre les dux points est de: {Result} .");
 //fin.

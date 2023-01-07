@@ -89,17 +89,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tableau_11.Recherche_dichot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewSortByIsertion", "NewSortByIsertion\NewSortByIsertion.csproj", "{D798CB4A-AF47-4FF4-88F5-97F45A194CAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonctions et procedure.1", "fonctions et procedure.1\fonctions et procedure.1.csproj", "{2107C002-07F9-4883-A21E-A9E876DA15C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fonctions et procedure.1", "fonctions et procedure.1\fonctions et procedure.1.csproj", "{2107C002-07F9-4883-A21E-A9E876DA15C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func.2_Somme", "func.2_Somme\func.2_Somme.csproj", "{9C6245A8-6D78-48CA-ACF9-A0052ABCB1D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "func.2_Somme", "func.2_Somme\func.2_Somme.csproj", "{9C6245A8-6D78-48CA-ACF9-A0052ABCB1D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func.3_EstPair", "func.3_EstPair\func.3_EstPair.csproj", "{2C833AA1-164F-4C19-81A1-96A6CD2597AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "func.3_EstPair", "func.3_EstPair\func.3_EstPair.csproj", "{2C833AA1-164F-4C19-81A1-96A6CD2597AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tab_StroumfBis", "Tab_StroumfBis\Tab_StroumfBis.csproj", "{9F6B0D6D-89FA-469B-A42D-D6E194F0BC76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tab_StroumfBis", "Tab_StroumfBis\Tab_StroumfBis.csproj", "{9F6B0D6D-89FA-469B-A42D-D6E194F0BC76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Recherche_dichotomique", "11_Recherche_dichotomique\11_Recherche_dichotomique.csproj", "{6F3586A0-CA66-48E4-A5C0-BAE65DAD4982}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_Recherche_dichotomique", "11_Recherche_dichotomique\11_Recherche_dichotomique.csproj", "{6F3586A0-CA66-48E4-A5C0-BAE65DAD4982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func.4_Mention", "func.4_Mention\func.4_Mention.csproj", "{75DD4A7B-C465-42C1-8C44-685D594FB28A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "func.4_Mention", "func.4_Mention\func.4_Mention.csproj", "{75DD4A7B-C465-42C1-8C44-685D594FB28A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func.5_Distance", "func.5_Distance\func.5_Distance.csproj", "{196F20FD-D818-42F1-A482-743180923F51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{75DD4A7B-C465-42C1-8C44-685D594FB28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75DD4A7B-C465-42C1-8C44-685D594FB28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75DD4A7B-C465-42C1-8C44-685D594FB28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196F20FD-D818-42F1-A482-743180923F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196F20FD-D818-42F1-A482-743180923F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196F20FD-D818-42F1-A482-743180923F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196F20FD-D818-42F1-A482-743180923F51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

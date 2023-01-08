@@ -103,6 +103,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "func.4_Mention", "func.4_Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func.5_Distance", "func.5_Distance\func.5_Distance.csproj", "{196F20FD-D818-42F1-A482-743180923F51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func.6_OuiNon", "func.6_OuiNon\func.6_OuiNon.csproj", "{F5A817E3-6334-425F-B09B-051D0C034FA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{196F20FD-D818-42F1-A482-743180923F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{196F20FD-D818-42F1-A482-743180923F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{196F20FD-D818-42F1-A482-743180923F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A817E3-6334-425F-B09B-051D0C034FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A817E3-6334-425F-B09B-051D0C034FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A817E3-6334-425F-B09B-051D0C034FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A817E3-6334-425F-B09B-051D0C034FA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

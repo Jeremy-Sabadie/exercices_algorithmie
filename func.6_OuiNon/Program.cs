@@ -1,8 +1,9 @@
-﻿string Answer="";
+﻿
 string RepMaried = "";
 string RepChild = "";
 //Déclaration de la fonction askQuestion qui retourne la réponse en string:
 string askQuestion(string ask){
+    string Answer = "";
     do
     {
         Console.WriteLine(ask);
@@ -21,11 +22,9 @@ string childQuestion = "Avez-vous des enfants?";
 //Appel de la fonction pour marié?
 RepMaried = askQuestion(mariedQuestion);
 //Affichage du résultat:
-Console.WriteLine($"larépnse à la question{mariedQuestion}est: {Answer}");
+Console.WriteLine($"larépnse à la question{mariedQuestion}est: {RepMaried}");
 //Appel de la fonction pour les enfants;
-RepMaried = askQuestion(mariedQuestion);
-//Affichage du résultat:
 RepChild = askQuestion(childQuestion);
 //Affichage du résultat:
-Console.WriteLine($"larépnse à la question{childQuestion}est: {Answer}");
+Console.WriteLine($"larépnse à la question{childQuestion}est: {RepChild}");
 

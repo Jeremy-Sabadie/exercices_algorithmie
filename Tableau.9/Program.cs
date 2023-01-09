@@ -23,6 +23,8 @@ for (int j = 0; j < Tableau.Length-1; j++)//Boucle for qui englobe la deuxième 
 
 AfficherTableau(Tableau);
 
+
+
 void AfficherTableau(int[] Tableau)
 {
     Console.Write("[ ");

@@ -1,10 +1,9 @@
 ﻿// Signature de la fonction Distance.
-using System.ComponentModel;
 
 double Distance(double x1, double y1, double x2, double y2)
 {
-    
-    double Tmp=Math.Sqrt(Math.Pow(x2 - x1, 2));
+
+    double Tmp = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
     return Math.Sqrt(Tmp);
 }
 
